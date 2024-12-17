@@ -25,6 +25,7 @@ Run the following commands in your terminal to clone the repository and navigate
 ```bash
 git clone https://github.com/Pgangothri/thinklabs.git
 cd thinklabs
+```bash
 2.Install Dependencies
 Ensure you have Python 3.x installed. Then, install the required packages:
 3.Prepare the Dataset
